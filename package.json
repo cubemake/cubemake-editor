@@ -1,0 +1,11 @@
+{
+  "name": "cubemake-editor",
+  "description": "3D model editor for CubeMake projects",
+  "version": "0.0.0",
+  "homepage": "http://cubemake.com",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cubemake/cubemake-editor.git"
+  }
+}
