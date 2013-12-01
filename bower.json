@@ -4,7 +4,9 @@
     "jquery": "~1.10.2",
     "handlebars": "~1.1.2",
     "ember": "~1.2.0",
-    "ember-data": "~1.0.0-beta.3"
+    "ember-data": "~1.0.0-beta.3",
+    "threejs": "*",
+    "threeoctree": "https://github.com/collinhover/threeoctree.git"
   },
   "resolutions": {
     "ember": "~1.2.0",
