@@ -6,7 +6,8 @@
     "ember": "~1.2.0",
     "ember-data": "~1.0.0-beta.3",
     "threejs": "*",
-    "threeoctree": "https://github.com/collinhover/threeoctree.git"
+    "threeoctree": "https://github.com/collinhover/threeoctree.git",
+    "emblem": "~0.3.5"
   },
   "resolutions": {
     "ember": "~1.2.0",
